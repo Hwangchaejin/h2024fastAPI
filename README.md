@@ -20,7 +20,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 
 ### 2.1 데이터 구성
-+데이터 열 이름
++ 데이터 열 이름
 "created_at","file_name","followers","friends","group_name",
 "location","retweet_count","screenname","search_query","text",
 "twitter_id","username","polarity","partition_0","partition_1"
