@@ -8,7 +8,8 @@ EPL은 영국 프리미어리그(English Premier League)의 줄임말을 뜻한�
 [1] 링크
  https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset?select=2020-09-20+till+2020-10-13.csv
 ## 1.1 EPL 감정/열정 영향력
-EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계적으로 가장 인기 있는 축구 리그 중 하나로, 각 팀의 팬들은 그들이 사랑하는 팀을 열정적으로 응원한다. 
+EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계적으로 가장 인기 있는 축구 리그 중 하나로,\
+각 팀의 팬들은 그들이 사랑하는 팀을 열정적으로 응원한다. 
 경기장은 항상 활기차고 무대 인근의 팬들은 팀을 위해 모든 것을 다할 준비가 되어 있다. 
 경기 전후에는 다양한 소셜 미디어 플랫폼에서 토론이 벌어지고, 승리나 패배에 대한 열정적인 의견이 공유된다.
 전 세계적으로 EPL을 지지하는 팬들은 그들의 팀에 대한 애정과 열정을 넘어서서 종종 경기장에까지 여행하고 있다.
@@ -21,8 +22,8 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 ### 2.1 데이터 구성
 + 데이터 열 이름
-"created_at","file_name","followers","friends","group_name",
-"location","retweet_count","screenname","search_query","text",
+"created_at","file_name","followers","friends","group_name",\
+"location","retweet_count","screenname","search_query","text",\
 "twitter_id","username","polarity","partition_0","partition_1"
 
 기본적인 정보 : 어떠한 데이터인지, 총 데이터 건 수
