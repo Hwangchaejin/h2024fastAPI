@@ -19,13 +19,15 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 2020년 7월 12일부터 2020년 9월 19일까지의 데이터를 조사해봤다\
 
 
-### 2.1 원시 데이터
- https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset?select=2020-09-20+till+2020-10-13.csv
-epl의 반응 데이터를 조사해볼것이다
+### 2.1 데이터 구성
++데이터 열 이름
+"created_at","file_name","followers","friends","group_name",
+"location","retweet_count","screenname","search_query","text",
+"twitter_id","username","polarity","partition_0","partition_1"
 
 기본적인 정보 : 어떠한 데이터인지, 총 데이터 건 수
 
-### 2.2 추출한 데이터
+### 2.2 추출한 데이터 (반응)
 대량의 데이터에서 잉글랜드 프리미어 리그의 열정 영역을 추출해볼것이다
 EPL 팀 - 트위터 감정 데이터세트
 
