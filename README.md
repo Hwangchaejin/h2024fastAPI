@@ -21,15 +21,17 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 2020년 7월 12일부터 9월 19일까지의 데이터를 조사해봤다
 
 
+
 ### 2.1 데이터 구성
 + 데이터 열 이름
 "created_at","file_name","followers","friends","group_name",\
 "location","retweet_count","screenname","search_query","text",\
 "twitter_id","username","polarity","partition_0","partition_1"\
+
 ## 극성 팬들이 많은 팀 TOP12
 ![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)\
-### 맨체스터 유나이티드 1위\
-### 리버풀 2위\
+### 맨체스터 유나이티드 1위
+### 리버풀 2위
 ### 아스날 3위로 집계되고 있다.
 
 기본적인 정보 : 어떠한 데이터인지, 총 데이터 건 수
