@@ -1,7 +1,7 @@
 # EPL 팀 - 트위어 감정 데이터세트 프로젝트
-![images](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/6d105cfa-022b-4610-89a2-74377b005f46)
 ## 잉글랜드 프리미어 리그 - 트위터 감정 데이터세트
-
+![ddfs](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4734a631-49ab-4147-a7cc-d1baa0261d8b)
+![images](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/6d105cfa-022b-4610-89a2-74377b005f46)
 ## 1. 개요
 EPL은 영국 프리미어리그(English Premier League)의 줄임말을 뜻한다.
 이 리그에는 맨체스터 유나이티드, 리버풀, 첼시, 아스널 등과 같은 유명한 축구 팀들이 속해 있다.
