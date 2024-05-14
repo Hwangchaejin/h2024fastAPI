@@ -2,7 +2,7 @@
 ![ddfs](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4734a631-49ab-4147-a7cc-d1baa0261d8b)
 ![images](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/6d105cfa-022b-4610-89a2-74377b005f46)
 ## 잉글랜드 프리미어 리그 - 트위터 감정 데이터세트
-<hr>
+
 ## 1. 개요
 ### 1.1 정의
 EPL은 영국 프리미어리그(English Premier League)의 줄임말을 뜻한다.
