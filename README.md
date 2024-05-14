@@ -3,11 +3,10 @@
 ![ddfs](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4734a631-49ab-4147-a7cc-d1baa0261d8b)
 ![images](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/6d105cfa-022b-4610-89a2-74377b005f46)
 ## 1. 개요
+### 1.1 정의
 EPL은 영국 프리미어리그(English Premier League)의 줄임말을 뜻한다.
 이 리그에는 맨체스터 유나이티드, 리버풀, 첼시, 아스널 등과 같은 유명한 축구 팀들이 속해 있다.
-[1] 링크
- https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset?select=2020-09-20+till+2020-10-13.csv
-## 1.1 EPL 감정/열정 영향력
+### 1.2 EPL 감정/열정 영향력
 EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계적으로 가장 인기 있는 축구 리그 중 하나로,\
 각 팀의 팬들은 그들이 사랑하는 팀을 열정적으로 응원한다. 
 경기장은 항상 활기차고 무대 인근의 팬들은 팀을 위해 모든 것을 다할 준비가 되어 있다. 
