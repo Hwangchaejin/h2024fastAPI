@@ -4,7 +4,7 @@
 ## 잉글랜드 프리미어 리그 - 트위터 감정 데이터세트
 
 ## 1. 개요
-### 1.1 정의
+### 1.1 EPL 정의
 EPL은 영국 프리미어리그(English Premier League)의 줄임말을 뜻한다.
 이 리그에는 맨체스터 유나이티드, 리버풀, 첼시, 아스널 등과 같은 유명한 축구 팀들이 속해 있다.\
 ![cooc](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/17e22207-d305-4736-98f5-f46f00b233e4)
