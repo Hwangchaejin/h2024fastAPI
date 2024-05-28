@@ -1,4 +1,4 @@
-# EPL 팀 - 트위어 감정 데이터세트 프로젝트
+# EPL 팀 - 트위터 감정 데이터세트 프로젝트
 ![ddfs](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4734a631-49ab-4147-a7cc-d1baa0261d8b)
 ![images](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/6d105cfa-022b-4610-89a2-74377b005f46)
 ## 잉글랜드 프리미어 리그 - 트위터 감정 데이터세트
