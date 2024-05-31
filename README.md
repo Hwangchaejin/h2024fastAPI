@@ -23,9 +23,9 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ![스크린샷 2024-05-14 103907](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/678f2ec3-dcbb-4c36-a5d2-de11d63c55b1)
 
 ## 2. 데이터
-2020년 7월 12일부터 9월 19일까지의 데이터
+2020년 7월 12일부터 9월 19일까지의 데이터를 조사해보았다
 
-## 트위터 내 서포터즈의 데이터 수 TOP12
+## 2-1 트위터 내 서포터즈의 데이터 수 TOP12
 ![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
 ### 맨체스터 유나이티드 1위, 리버풀 2위, 아스날 3위로 집계되고 있다.
 
@@ -43,7 +43,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 
 
-### 2.1 데이터 구성
+### 2.2 데이터 구성
 + 데이터 열 이름
 "created_at","file_name","followers","friends","group_name",\
 "location","retweet_count","screenname","search_query","text",\
@@ -51,9 +51,6 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
 + 데이터 구조 예시
 
-## 트위터 내 서포터즈의 데이터 수 TOP12
-![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
-### 맨체스터 유나이티드 1위, 리버풀 2위, 아스날 3위로 집계되고 있다.
 
 기본적인 정보 : 데이터 전체 수는 몇건인가
 팀 별로 건 수가 몇개가 있는지
