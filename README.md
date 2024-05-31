@@ -60,19 +60,6 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 
 
-
-
-
-
-### 2.3 데이터 구성
-+ 데이터 열 이름
-"created_at","file_name","followers","friends","group_name",\
-"location","retweet_count","screenname","search_query","text",\
-"twitter_id","username","polarity","partition_0","partition_1"
-![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
-+ 데이터 구조 예시
-
-
 기본적인 정보 : 데이터 전체 수는 몇건인가
 팀 별로 건 수가 몇개가 있는지
 축구 구단별로 분포가 어떻게 되는지
