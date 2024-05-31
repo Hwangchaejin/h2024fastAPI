@@ -60,7 +60,16 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 
 
-기본적인 정보 : 데이터 전체 수는 몇건인가
+기본적인 정보 : 데이터 전체 수는 211,342건이 나왔고, 중립을 제거한 데이터의 수는 76,735
+Arsenal FC              12270
+Chelsea FC               2228
+Tottenham Hotspur FC     8626
+Crystal Palace FC        2764
+긍정은 62,052
+부정은 14,683 으로 알 수 있다.
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/172aacfc-d93a-445e-af5f-e8af24d16a39)
+
+
 팀 별로 건 수가 몇개가 있는지
 축구 구단별로 분포가 어떻게 되는지
 맨유 리버풀 등등
