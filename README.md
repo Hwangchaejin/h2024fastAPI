@@ -25,12 +25,21 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ## 2. 데이터
 2020년 7월 12일부터 9월 19일까지의 데이터를 조사해보았다
 
-## 2-1 트위터 내 서포터즈의 데이터 수 TOP12
+
+### 2.1 데이터 구성
++ 데이터 열 이름
+"created_at","file_name","followers","friends","group_name",\
+"location","retweet_count","screenname","search_query","text",\
+"twitter_id","username","polarity","partition_0","partition_1"
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
++ 데이터 구조 예시
+
+### 2-2 트위터 내 서포터즈의 데이터 수 TOP12
 ![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
 ### 맨체스터 유나이티드 1위, 리버풀 2위, 아스날 3위로 집계되고 있다.
 <hr>
 
-## 런던 지역에 있는 팀을 자세히 분석해보았다.
+## 2-3 런던 지역에 있는 팀을 자세히 분석해보았다.
 ### Arsenal FC 
 북런던에 있는 프리미어리그의 대표적인 클럽 중 하나로, 에바스 FC가 1886년에 설립되었다.\
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/a0424591-cfd3-4449-8132-a41a0b1cf504)
@@ -54,7 +63,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 
 
-### 2.2 데이터 구성
+### 2.3 데이터 구성
 + 데이터 열 이름
 "created_at","file_name","followers","friends","group_name",\
 "location","retweet_count","screenname","search_query","text",\
