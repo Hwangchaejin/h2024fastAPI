@@ -36,12 +36,18 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/a0424591-cfd3-4449-8132-a41a0b1cf504)
 
 ### Chelsea FC 
-서런던에 위치한 클럽으로, 1905년에 창단되다. 그리고 현재는 전 세계적으로 유명한 클럽 중 하나다.
+서런던에 위치한 클럽으로, 1905년에 창단되다. 그리고 현재는 전 세계적으로 유명한 클럽 중 하나다.\
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/3296be75-3ad1-4a96-9631-0dea8eb6739b)
+
 ### Tottenham Hotspur FC 
-북런던의 클럽으로, 1882년에 설립되었다.
+북런던의 클럽으로, 1882년에 설립되었다. 현재 토트넘은 프리미어 리그에서 활동하고 있으며, 잉글랜드 축구의 최상급 리그에서 경쟁력 있는 팀 중 하나이다.\
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/5b963774-9b1b-4a3e-b59e-751445959c91)
+
 ### Crystal Palace FC 
 동부의 크리스탈 팰리스 지역에 있고, 1905년에 설립되었으며, 국 축구 역사상 많은 성취를 이뤄왔으며,
-특히 1990년대와 2010년대 중반에는 프리미어 리그에서 활약했다.
+특히 1990년대와 2010년대 중반에는 프리미어 리그에서 활약했다.\
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/49ceac26-5341-4ba9-aa5c-870dfa0fbfd0)
+
 
 
 
