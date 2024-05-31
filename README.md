@@ -46,7 +46,8 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ### Crystal Palace FC 
 동부의 크리스탈 팰리스 지역에 있고, 1905년에 설립되었으며, 국 축구 역사상 많은 성취를 이뤄왔으며,
 특히 1990년대와 2010년대 중반에는 프리미어 리그에서 활약했다.\
-![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/f68b980f-b368-4d49-8caa-4b4c18d19a7b)
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4c26d5cf-2eed-4726-a0f9-385a39fca950)
+
 
 
 
