@@ -26,13 +26,14 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 2020년 7월 12일부터 9월 19일까지의 데이터를 조사해보았다
 
 
-### 2.1 데이터 구성
+### 2.3 데이터 구성
 + 데이터 열 이름
 "created_at","file_name","followers","friends","group_name",\
 "location","retweet_count","screenname","search_query","text",\
-"twitter_id","username","polarity","partition_0","partition_1"
-![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
+"twitter_id","username","polarity","partition_0","partition_1"\
 + 데이터 구조 예시
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
+
 
 ### 2-2 트위터 내 서포터즈의 데이터 수 TOP12
 ![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
