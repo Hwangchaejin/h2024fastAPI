@@ -46,7 +46,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 ## 2-3 데이터 추출
 중립을 제거한 데이터의 수는 76,735건을 알 수 있다.
-![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4224e619-30e9-4806-ae04-31b33f88e499)\
+![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/4224e619-30e9-4806-ae04-31b33f88e499)
 
 그 중 긍정은 62,052건과 부정은 14,683건이 나왔다.
 + 긍,부정 분류\
