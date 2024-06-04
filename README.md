@@ -33,14 +33,14 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 "twitter_id","username","polarity","partition_0","partition_1"\
 + 데이터 구조 예시
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
-데이터 전체 리뷰 수는 211,342건이 나왔고, 중립을 제거한 런던의 데이터의 수는 76,735이 나왔다.
+데이터 전체 리뷰 수는 211,342건이 나왔다\
+![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
 
 
 ### 2-2 트위터 내 EPL 팬의 서포터즈 리뷰 수
-리뷰 수는 76,735건으로 확인된다\
+중립을 제거한 데이터 리뷰 수는 76,735건으로 확인된다\
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/998f3cc7-360d-4e31-a01e-ceb6634ca0f4)
 
-![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
 ### 맨체스터 유나이티드 1위, 리버풀 2위, 아스날 3위로 집계되고 있다.
 <hr>
 
