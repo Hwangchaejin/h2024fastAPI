@@ -33,6 +33,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 "twitter_id","username","polarity","partition_0","partition_1"\
 + 데이터 구조 예시
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
+데이터 전체 리뷰 수는 211,342건이 나왔고, 중립을 제거한 런던의 데이터의 수는 76,735이 나왔다.
 
 
 ### 2-2 트위터 내 서포터즈의 데이터 수 TOP12
@@ -60,19 +61,17 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 
 
 
-기본적인 정보 : 데이터 전체 수는 211,342건이 나왔고, 중립을 제거한 데이터의 수는 76,735
+런던팀의 데이터 수는
 Arsenal FC              12270
 Chelsea FC               2228
 Tottenham Hotspur FC     8626
 Crystal Palace FC        2764
-긍정은 62,052
+
+긍정과 부정은 
+긍정은 62,052,
 부정은 14,683 으로 알 수 있다.
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/172aacfc-d93a-445e-af5f-e8af24d16a39)
 
-
-팀 별로 건 수가 몇개가 있는지
-축구 구단별로 분포가 어떻게 되는지
-맨유 리버풀 등등
 
 ### 2.2 추출한 데이터 (반응)
 대량의 데이터에서 잉글랜드 프리미어 리그의 열정 영역을 추출해볼것이다
