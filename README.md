@@ -30,7 +30,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 + 데이터 열 이름
 "created_at","file_name","followers","friends","group_name",\
 "location","retweet_count","screenname","search_query","text",\
-"twitter_id","username","polarity","partition_0","partition_1"\
+"twitter_id","username","polarity","partition_0","partition_1"
 + 데이터 구조 예시
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
 데이터 전체 리뷰 수는 211,342건이 나왔다\
