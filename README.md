@@ -34,6 +34,16 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 |최초 생성 |파일 이름|팀 팔로워 수|팀명 이름|지역|작성|선수 이름|
 + 데이터 구조 예시
 
+|created_at|file_name|followers|group_name|location|text|username|
+|----------|---------|---------|----------|--------|----|--------|
+|1|206461|Valsartan|Left Ventricular Dysfunction|"It has no side effect, I take it in combinati...|9|20-May-12|27|
+|2|95260|Guanfacine|ADHD|	"My son is halfway through his fourth week of ...|8|27-Apr-10|192|
+|3|92703|Lybrel|Birth Control|"I used to take another oral contraceptive, wh...|5|14-Dec-09|17|
+|..|...|...|.....|.....|...|...|..|
+|53764|130945|Levonorgestrel|Birth Control|"I'm married, 34 years old and I have no kids. Taking..."|8|15-Nov-10|7|
+|53765|47656|Tapentadol|Pain|"I was prescribed Nucynta for severe neck/shoulder pain..."|1|28-Nov-11|20|
+|53766|113712|Arthrotec|Sciatica|"It works!!!"|9|13-Sep-09|46|
+
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
 데이터 전체 리뷰 수는 211,342건이 나왔다
 ![스크린샷 2024-05-14 105222](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/ad851b84-e69a-4d81-92ea-62f4744d872f)
