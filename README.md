@@ -24,7 +24,7 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ## 2. 원시 데이터
  
 [EPL 팀 데이터셋](https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset?select=2020-09-20+till+2020-10-13.csv "EPL 팀 데이터셋")<br/>
-
+[EPL 홈페이지] (https://www.premierleague.com/ "EPL 홈페이지")
 
 ### 2.1 데이터 구성
 + 데이터 열 이름
