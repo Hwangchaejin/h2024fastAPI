@@ -21,9 +21,6 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 경기 전후에는 다양한 소셜 미디어 플랫폼에서 토론이 벌어지고, 승리나 패배에 대한 열정적인 의견이 공유된다.
 전 세계적으로 EPL을 지지하는 팬들은 그들의 팀에 대한 애정과 열정을 넘어서서 종종 경기장에까지 여행하고 있다.\
 ![스크린샷 2024-05-14 103907](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/678f2ec3-dcbb-4c36-a5d2-de11d63c55b1)
-|created_at|file_name|followers|group_name|location|text|username|
-|----------|---------|---------|----------|--------|----|--------|
-|최초 생성 |파일 이름|팀 팔로워 수|팀명 이름|지역|작성|선수 이름|
 
 
 ## 2. 데이터
@@ -33,12 +30,8 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ### 2.1 데이터 구성
 + 데이터 열 이름
 |created_at|file_name|followers|group_name|location|text|username|
-|----------|---------|---------|---------|--------|----|--------|
+|----------|---------|---------|----------|--------|----|--------|
 |최초 생성 |파일 이름|팀 팔로워 수|팀명 이름|지역|작성|선수 이름|
-
-"created_at","file_name","followers","friends","group_name",\
-"location","retweet_count","screenname","search_query","text",\
-"twitter_id","username","polarity","partition_0","partition_1"
 + 데이터 구조 예시
 ![image](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/42b8cbe9-73b2-4b9a-98a1-f15dae5d2938)
 데이터 전체 리뷰 수는 211,342건이 나왔다
