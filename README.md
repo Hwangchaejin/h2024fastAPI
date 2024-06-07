@@ -23,7 +23,10 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 ![스크린샷 2024-05-14 103907](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/678f2ec3-dcbb-4c36-a5d2-de11d63c55b1)
 |uniqueID|drugName|condition|review|rating|date|usefulCount|
 |--------|--------|--------|------|------|----|-----------|
-|고유 식별자|의약품명|환자 병명|리뷰|평점|작성날짜(년월일)|유용한 리뷰추천수|
+|고유 식별자|의약품명|환자 병명|리뷰|평점|작성날짜(년월일)|유용한 리뷰추천수|\
+|created_at|file_name|followers|group_name|location|text|username|
+|----------|---------|---------|---------|--------|----|--------|
+|최초 생성 |파일 이름|팀 팔로워 수|팀명 이름|지역|작성|선수 이름|
 
 
 ## 2. 데이터
