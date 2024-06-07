@@ -21,10 +21,9 @@ EPL의 서포터 열정은 상당히 높다. 영국 프리미어리그는 세계
 경기 전후에는 다양한 소셜 미디어 플랫폼에서 토론이 벌어지고, 승리나 패배에 대한 열정적인 의견이 공유된다.
 전 세계적으로 EPL을 지지하는 팬들은 그들의 팀에 대한 애정과 열정을 넘어서서 종종 경기장에까지 여행하고 있다.\
 ![스크린샷 2024-05-14 103907](https://github.com/Hwangchaejin/h2024fastAPI/assets/79899665/678f2ec3-dcbb-4c36-a5d2-de11d63c55b1)
-## 2. 데이터
-+ 원시 데이터
-  
-[EPL 팀 데이터셋]https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset?select=2020-09-20+till+2020-10-13.csv "EPL 팀 데이터셋")<br/>
+## 2. 원시 데이터
+ 
+[EPL 팀 데이터셋](https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset?select=2020-09-20+till+2020-10-13.csv "EPL 팀 데이터셋")<br/>
 
 
 ### 2.1 데이터 구성
